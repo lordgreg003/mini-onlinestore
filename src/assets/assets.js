@@ -96,7 +96,7 @@ export const products = [
   },
   {
     _id: "irughughucg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img2, p_img7],
@@ -108,7 +108,7 @@ export const products = [
   },
   {
     _id: "bkvjfv",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img3],
@@ -120,7 +120,7 @@ export const products = [
   },
   {
     _id: "gbgjbzkgb",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img4],
@@ -132,7 +132,7 @@ export const products = [
   },
   {
     _id: "iaegrygdyghucg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img5],
@@ -144,7 +144,7 @@ export const products = [
   },
   {
     _id: "igjbjbg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img6],
@@ -156,7 +156,7 @@ export const products = [
   },
   {
     _id: "irngkdgjjdhucg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img7],
@@ -168,7 +168,7 @@ export const products = [
   },
   {
     _id: "irngietughucg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img8],
@@ -180,7 +180,7 @@ export const products = [
   },
   {
     _id: "porgutughucg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img9],
@@ -192,7 +192,7 @@ export const products = [
   },
   {
     _id: "itrshjtoughucg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img10],
@@ -204,7 +204,7 @@ export const products = [
   },
   {
     _id: "irsohghucg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img11],
@@ -216,7 +216,7 @@ export const products = [
   },
   {
     _id: "irpegjitgg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img12],
@@ -228,7 +228,7 @@ export const products = [
   },
   {
     _id: "irnmbksjg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img13],
@@ -240,7 +240,7 @@ export const products = [
   },
   {
     _id: "iraetgheufhcg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img14],
@@ -252,7 +252,7 @@ export const products = [
   },
   {
     _id: "ippoohucg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img15],
@@ -264,7 +264,7 @@ export const products = [
   },
   {
     _id: "mmkhregu",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img16],
@@ -276,7 +276,7 @@ export const products = [
   },
   {
     _id: "ouuhugxv",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img17],
@@ -288,7 +288,7 @@ export const products = [
   },
   {
     _id: "ipijpfinpijg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img18],
@@ -300,7 +300,7 @@ export const products = [
   },
   {
     _id: "inituhyyg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img19],
@@ -312,7 +312,7 @@ export const products = [
   },
   {
     _id: "hhhgdtyg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img20],
@@ -324,7 +324,7 @@ export const products = [
   },
   {
     _id: "iuuffrufhcg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img21],
@@ -336,7 +336,7 @@ export const products = [
   },
   {
     _id: "oejgaghhcg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img22],
@@ -348,7 +348,7 @@ export const products = [
   },
   {
     _id: "irehtdhbdtgheufhcg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img23],
@@ -360,7 +360,7 @@ export const products = [
   },
   {
     _id: "inng",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img24],
@@ -372,7 +372,7 @@ export const products = [
   },
   {
     _id: "bbggydrfhcg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img25],
@@ -384,7 +384,7 @@ export const products = [
   },
   {
     _id: "iafffgryfghcg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img26],
@@ -396,7 +396,7 @@ export const products = [
   },
   {
     _id: "irmmooofaucg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img27],
@@ -408,7 +408,7 @@ export const products = [
   },
   {
     _id: "irnnhhfreedrt",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img28],
@@ -420,7 +420,7 @@ export const products = [
   },
   {
     _id: "imlkgthtfgg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img29],
@@ -432,7 +432,7 @@ export const products = [
   },
   {
     _id: "mmgsntjghuhcg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img30],
@@ -444,7 +444,7 @@ export const products = [
   },
   {
     _id: "ibbgtrdetffhcg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img31],
@@ -456,7 +456,7 @@ export const products = [
   },
   {
     _id: "irabbaretyubg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img32],
@@ -468,7 +468,7 @@ export const products = [
   },
   {
     _id: "zzwswsqsqeufhcg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img33],
@@ -480,7 +480,7 @@ export const products = [
   },
   {
     _id: "irqqazwdfcg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img34],
@@ -492,7 +492,7 @@ export const products = [
   },
   {
     _id: "immkugyg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img35],
@@ -504,7 +504,7 @@ export const products = [
   },
   {
     _id: "irfftgfcg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img36],
@@ -516,7 +516,7 @@ export const products = [
   },
   {
     _id: "kkgtdrtcrhcg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img37],
@@ -528,7 +528,7 @@ export const products = [
   },
   {
     _id: "iraetgkjsjg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img38],
@@ -540,7 +540,7 @@ export const products = [
   },
   {
     _id: "irgthgbhhcg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img39],
@@ -552,7 +552,7 @@ export const products = [
   },
   {
     _id: "ibbbbbghdheufhcg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img40],
@@ -564,7 +564,7 @@ export const products = [
   },
   {
     _id: "ibbfrdfcg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img41],
@@ -576,7 +576,7 @@ export const products = [
   },
   {
     _id: "ehgthgbhdtg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img42],
@@ -588,7 +588,7 @@ export const products = [
   },
   {
     _id: "iraetgheuuiyg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img43],
@@ -600,7 +600,7 @@ export const products = [
   },
   {
     _id: "ljihcg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img44],
@@ -612,7 +612,7 @@ export const products = [
   },
   {
     _id: "ikhutydrcg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img45],
@@ -624,7 +624,7 @@ export const products = [
   },
   {
     _id: "ikhugyfybhhcg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img46],
@@ -636,7 +636,7 @@ export const products = [
   },
   {
     _id: "ibfrfddheufhcg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img47],
@@ -648,7 +648,7 @@ export const products = [
   },
   {
     _id: "iftdrdcg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img48],
@@ -660,7 +660,7 @@ export const products = [
   },
   {
     _id: "ikhutydtrdrd",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img49],
@@ -672,7 +672,7 @@ export const products = [
   },
   {
     _id: "iffdrfrcg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img50],
@@ -684,7 +684,7 @@ export const products = [
   },
   {
     _id: "ihgyvcg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img51],
@@ -696,7 +696,7 @@ export const products = [
   },
   {
     _id: "ikhuygyrcg",
-    name: "",
+    name: "Top Wear",
     description: "The best cloths in the whole world",
     price: 100,
     image: [p_img52],
