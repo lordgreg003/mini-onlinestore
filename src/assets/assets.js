@@ -128,7 +128,7 @@ export const products = [
     subCategory: "bottomwear",
     sizes: ["S", "M", "L"],
     date: 8478654564,
-    bestseller: true,
+    bestseller: false,
   },
   {
     _id: "iaegrygdyghucg",
@@ -140,7 +140,7 @@ export const products = [
     subCategory: "bottomwear",
     sizes: ["S", "M", "L"],
     date: 8478654564,
-    bestseller: true,
+    bestseller: false,
   },
   {
     _id: "igjbjbg",
@@ -152,7 +152,7 @@ export const products = [
     subCategory: "bottomwear",
     sizes: ["S", "M", "L"],
     date: 8478654564,
-    bestseller: true,
+    bestseller: false,
   },
   {
     _id: "irngkdgjjdhucg",
@@ -164,7 +164,7 @@ export const products = [
     subCategory: "bottomwear",
     sizes: ["S", "M", "L"],
     date: 8478654564,
-    bestseller: true,
+    bestseller: false,
   },
   {
     _id: "irngietughucg",
@@ -176,7 +176,7 @@ export const products = [
     subCategory: "bottomwear",
     sizes: ["S", "M", "L"],
     date: 8478654564,
-    bestseller: true,
+    bestseller: false,
   },
   {
     _id: "porgutughucg",
@@ -188,7 +188,7 @@ export const products = [
     subCategory: "bottomwear",
     sizes: ["S", "M", "L"],
     date: 8478654564,
-    bestseller: true,
+    bestseller: false,
   },
   {
     _id: "itrshjtoughucg",
@@ -200,7 +200,7 @@ export const products = [
     subCategory: "bottomwear",
     sizes: ["S", "M", "L"],
     date: 8478654564,
-    bestseller: true,
+    bestseller: false,
   },
   {
     _id: "irsohghucg",
@@ -212,7 +212,7 @@ export const products = [
     subCategory: "bottomwear",
     sizes: ["S", "M", "L"],
     date: 8478654564,
-    bestseller: true,
+    bestseller: false,
   },
   {
     _id: "irpegjitgg",
@@ -224,7 +224,7 @@ export const products = [
     subCategory: "bottomwear",
     sizes: ["S", "M", "L"],
     date: 8478654564,
-    bestseller: true,
+    bestseller: false,
   },
   {
     _id: "irnmbksjg",
@@ -236,7 +236,7 @@ export const products = [
     subCategory: "bottomwear",
     sizes: ["S", "M", "L"],
     date: 8478654564,
-    bestseller: true,
+    bestseller: false,
   },
   {
     _id: "iraetgheufhcg",
@@ -248,7 +248,7 @@ export const products = [
     subCategory: "bottomwear",
     sizes: ["S", "M", "L"],
     date: 8478654564,
-    bestseller: true,
+    bestseller: false,
   },
   {
     _id: "ippoohucg",
@@ -476,7 +476,7 @@ export const products = [
     subCategory: "winterwear",
     sizes: ["S", "M", "L"],
     date: 8478654564,
-    bestseller: true,
+    bestseller: false,
   },
   {
     _id: "irqqazwdfcg",
@@ -488,7 +488,7 @@ export const products = [
     subCategory: "winterwear",
     sizes: ["S", "M", "L"],
     date: 8478654564,
-    bestseller: true,
+    bestseller: false,
   },
   {
     _id: "immkugyg",
@@ -500,7 +500,7 @@ export const products = [
     subCategory: "winterwear",
     sizes: ["S", "M", "L"],
     date: 8478654564,
-    bestseller: true,
+    bestseller: false,
   },
   {
     _id: "irfftgfcg",
@@ -512,7 +512,7 @@ export const products = [
     subCategory: "winterwear",
     sizes: ["S", "M", "L"],
     date: 8478654564,
-    bestseller: true,
+    bestseller: false,
   },
   {
     _id: "kkgtdrtcrhcg",
@@ -524,7 +524,7 @@ export const products = [
     subCategory: "winterwear",
     sizes: ["S", "M", "L"],
     date: 8478654564,
-    bestseller: true,
+    bestseller: false,
   },
   {
     _id: "iraetgkjsjg",
@@ -536,7 +536,7 @@ export const products = [
     subCategory: "Topwear",
     sizes: ["S", "M", "L"],
     date: 8478654564,
-    bestseller: true,
+    bestseller: false,
   },
   {
     _id: "irgthgbhhcg",
@@ -548,7 +548,7 @@ export const products = [
     subCategory: "Topwear",
     sizes: ["S", "M", "L"],
     date: 8478654564,
-    bestseller: true,
+    bestseller: false,
   },
   {
     _id: "ibbbbbghdheufhcg",
@@ -560,7 +560,7 @@ export const products = [
     subCategory: "Topwear",
     sizes: ["S", "M", "L"],
     date: 8478654564,
-    bestseller: true,
+    bestseller: false,
   },
   {
     _id: "ibbfrdfcg",
@@ -704,6 +704,6 @@ export const products = [
     subCategory: "Topwear",
     sizes: ["S", "M", "L"],
     date: 8478654564,
-    bestseller: true,
+    bestseller: false,
   },
 ];
