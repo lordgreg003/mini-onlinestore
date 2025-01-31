@@ -64,6 +64,7 @@ import profile_icon from "./profile-icon.png";
 import quality_icon from "./quality_icon.png";
 import search_icon from "./search_icon.png";
 import support_img from "./support_img.png";
+import cross_icon from "./cross_icon.png";
 
 export const assets = {
   logo,
@@ -79,6 +80,7 @@ export const assets = {
   quality_icon,
   search_icon,
   support_img,
+  cross_icon,
 };
 
 export const products = [
